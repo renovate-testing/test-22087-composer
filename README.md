@@ -1,0 +1,1 @@
+# renovate-composer-error
